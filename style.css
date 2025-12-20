@@ -164,14 +164,14 @@ button:hover {
 
 .contador div {
   background: var(--cor-fundo);
-  padding: 15px;
-  border-radius: 12px;
-  min-width: 70px;
+  padding: 10px;
+  border-radius: 10px;
+  min-width: 55px;
 }
 
 .contador span {
   display: block;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-weight: bold;
   color: var(--cor-principal);
 }
